@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SlidingTabs</string>
+    <string name="fragment_one">Fragment Number </string>
+    <string name="fragment_two">Fragment Number Two</string>
+    <string name="fragment_three">Fragment Number Three</string>
+
+    <string-array name="tabsTitle">
+        <item>Tab 1</item>
+        <item>Tab 2</item>
+        <item>Tab 3</item>
+    </string-array>
+</resources>
